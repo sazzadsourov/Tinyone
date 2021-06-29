@@ -1,1 +1,1 @@
-https://sazzadsourov.github.io/Tinyone/
+https://sazzadsourov.github.io/Tinyone-Web-Templete/
